@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "name": "thabo",
+      "description": "mokeke",
+      "category": "bushi",
+      "price": "499.97",
+      "quantity": 10,
+      "id": "ab2b"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Rorisang  Mofolo",
+      "email": "rorisangmofolo210@gmail.com",
+      "phone": "56299338",
+      "address": "Maseru",
+      "id": "64b6"
+    }
+  ],
+  "sales": [
+    
+      
+
+  ]
+}
